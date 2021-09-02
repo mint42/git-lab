@@ -94,8 +94,8 @@ The changes made to the README.md file on github.com were updated on the local r
 
 #Answer 13
 total 20
-drwxr-xr-x 3 rreedy students 4096 Sep  2  2021 [0m[01;34m.[0m
-drwxr-xr-x 5 rreedy students 4096 Sep  2  2021 [01;34m..[0m
-drwxr-xr-x 8 rreedy students 4096 Sep  2  2021 [01;34m.git[0m
+drwxr-xr-x 3 rreedy students 4096 Sep  2  2021 .
+drwxr-xr-x 5 rreedy students 4096 Sep  2  2021 ..
+drwxr-xr-x 8 rreedy students 4096 Sep  2  2021 .git
 -rw-r--r-- 1 rreedy students  270 Sep  2  2021 .gitignore
 -rw-r--r-- 1 rreedy students   11 Sep  2  2021 README.md
